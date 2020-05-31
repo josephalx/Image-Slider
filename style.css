@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+.cont{
+    width: 640px;
+    margin: 50px auto;
+    overflow: hidden;
+  
+}
+
+.slider{
+    display: flex;
+    width: 640px;
+}
+.slider .ig
+{
+    width: 640px;
+}
